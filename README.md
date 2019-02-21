@@ -1,2 +1,2 @@
-# website-sonong.github.io
-This is sconong.com website
+# sconong.github.io
+Website sconong.com
